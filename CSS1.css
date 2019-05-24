@@ -1,0 +1,254 @@
+nav ul{
+  list-style: none;
+  float: right;
+  list-style: none;
+}
+
+nav li {
+display: inline;
+padding-right: 35px;
+}
+
+
+
+header {
+  height:63vh;
+  width:100%;
+  background-image: url(image/22.jpeg);
+  background-size: cover;
+}
+
+nav {
+  position:fixed;
+  top:0;
+  width:100%;
+  height:60px;
+  background-color: #363247;
+}
+
+nav a {
+color: white;
+font-family: 'Roboto', sans-serif;
+font-size: 17px;
+text-transform: uppercase;
+list-style: none;
+text-decoration: none;
+}
+
+.body {
+background-color: black;
+}
+
+.cv {
+font-family: 'Ubuntu', sans-serif;
+font-size: 55px;
+color: white;
+text-align: center;
+}
+
+.dev {
+font-family: 'Roboto', sans-serif;
+font-size: 33px;
+color: white;
+text-align: center;
+}
+
+.propos {
+border: 1px solid black;
+border-color: #363247;
+border-bottom: 20px solid #363247;
+border-radius: 20px;
+background-color: #363247;
+border-top: #363247 20px solid;
+margin-left: 45%;
+margin-right: 20%;
+color: white;
+text-transform: uppercase;
+font-family: 'Roboto', sans-serif;
+font-weight: bold;
+font-size: 50px;
+padding-left: 1%;
+}
+
+.prénom {
+border: 1px solid black;
+border-color: #aaba21;
+border-bottom: 10px solid #aaba21;
+background-color: #aaba21;
+border-top: #aaba21 10px solid;
+margin-left: 45%;
+color: white;
+text-transform: uppercase;
+font-family: 'Roboto', sans-serif;
+font-size: 20px;
+padding-left: 1%;
+}
+
+.moi {
+	font-size: 25px;
+	font-family: 'Roboto', sans-serif;
+	margin-left: 45%;
+	margin-right: 20%;
+	color: black;
+	text-align: justify;
+}
+
+.competence {
+margin-top: 10%;
+border: 1px solid black;
+border-color: #363247;
+border-bottom: 20px solid #363247;
+background-color: #363247;
+border-top: #363247 20px solid;
+border-radius: 20%;
+margin-left: 38%;
+margin-right: 33%;
+color: white;
+text-transform: uppercase;
+font-family: 'Roboto', sans-serif;
+font-weight: bold;
+font-size: 50px;
+padding-left: 2%;
+}
+
+.images{
+margin-left: 9%;
+margin-top: 5%;
+}
+
+.formation {
+margin-top: 10%;
+border: 1px solid black;
+border-color: #363247;
+border-bottom: 20px solid #363247;
+background-color: #363247;
+border-top: #363247 20px solid;
+border-radius: 20%;
+margin-left: 38%;
+margin-right: 35%;
+color: white;
+text-transform: uppercase;
+font-family: 'Roboto', sans-serif;
+font-weight: bold;
+font-size: 50px;
+padding-left: 2%;
+}
+
+.image {
+float: left;
+margin-left: 60px;
+margin-top: 50px;
+}
+
+.simplon {
+font-size: 30px;
+text-transform: uppercase;
+font-family: 'Roboto', sans-serif;
+color: #aaba21;
+font-weight: bold;
+margin-top: 30px;
+
+}
+
+.formations {
+font-size: 30px;
+font-family: 'Roboto', sans-serif;
+color: black;
+}
+
+.date {
+font-size: 20px;
+font-family: 'Roboto', sans-serif;
+color: black;
+}
+
+ .f {
+margin-left: 50%;
+ }
+
+ .e {
+ margin-left: 50%;	
+ }
+
+
+
+ .option{
+ font-size: 20px;
+font-family: 'Roboto', sans-serif;
+color: black;
+ }
+
+.expériences {
+margin-top: 10%;
+border: 1px solid black;
+border-color: #363247;
+border-bottom: 20px solid #363247;
+background-color: #363247;
+border-top: #363247 20px solid;
+border-radius: 20%;
+margin-left: 38%;
+margin-right: 35%;
+color: white;
+text-transform: uppercase;
+font-family: 'Roboto', sans-serif;
+font-weight: bold;
+font-size: 50px;
+padding-left: 2%;	
+}
+
+.v{
+margin-left: 50%	
+}
+
+.portfolio {
+	margin-top: 10%;
+border: 1px solid black;
+border-color: #363247;
+border-bottom: 20px solid #363247;
+background-color: #363247;
+border-top: #363247 20px solid;
+border-radius: 20%;
+margin-left: 38%;
+margin-right: 35%;
+color: white;
+text-transform: uppercase;
+font-family: 'Roboto', sans-serif;
+font-weight: bold;
+font-size: 50px;
+padding-left: 2%;
+margin-bottom: 100px;
+}
+
+
+footer {
+  position: absolute;
+  margin-bottom:0;
+  width:100%;
+  min-height: 200px;
+  background-color:black;
+}
+
+.contact {
+color: #aaba21;
+}
+
+.foot {
+color:white;
+text-align: center;
+}
+
+.vert{
+    background-color: green;
+}
+.jaune{
+    background-color: yellow;
+}
+.orange{
+    background-color: orange;
+}
+.bleu{
+    background-color: blue;
+}
+.bleufonce{
+    background-color: darkblue;
+}
